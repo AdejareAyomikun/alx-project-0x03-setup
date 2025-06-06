@@ -13,9 +13,7 @@ export default function Home() {
   return (
     <div className="flex flex-col justify-center items-center bg-gray-100 min-h-screen text-center">
       {/* Welcome Message */}
-      <h1 className="mb-4 font-bold text-gray-800 text-4xl">
-        Welcome to Splash App!
-      </h1>
+      <h1 className="mb-4 font-bold text-gray-800 text-4xl">Welcome to Splash App</h1>
       <p className="mb-8 text-gray-600 text-lg">
         Your one-stop platform for everything AI you need. Start exploring by
         navigating to our features below.
